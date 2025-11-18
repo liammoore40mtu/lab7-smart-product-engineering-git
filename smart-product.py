@@ -5,6 +5,9 @@ print("This is Smart Product Introduction to Git Lab")
 print ("My name is Conor Mackey")
 print ("This is a test")
 #put your custom message here
+print ("This is my custom message - LM")
+print ("Darragh McCarthy")
+
 print ("This is my custom message - cm")
 print ("My name is Sarah Clancy")
 print ("This is a test")
