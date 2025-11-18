@@ -6,6 +6,10 @@ print ("My name is Liam")
 print ("This is a test")
 #put your custom message here
 print ("There's only one Troy Parrot")
+print ("My name is Bola")
+print ("This is a test")
+#put your custom message here
+print ("This is my custom message - Bola")
 print ("My name is Conor Mackey")
 print ("This is a test")
 #put your custom message here
